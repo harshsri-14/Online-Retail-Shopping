@@ -4,6 +4,8 @@ of an online retail shopping website. This is made using python dictionary.
 
 <br>
 
+![cover](https://github.com/harshsri-14/Online-Retail-Shopping/raw/main/cover.png)
+
 <br>
 
 ## Run this on Repl.it:
